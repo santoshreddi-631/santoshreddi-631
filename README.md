@@ -63,3 +63,134 @@ Currently, I'm expanding my knowledge in **Artificial Intelligence**, **Machine 
 | 📍 Location | India |
 
 ---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,redux" />
+</p>
+
+## Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+## Cloud • DevOps • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,npm,vercel,netlify" />
+</p>
+
+</div>
+
+---
+
+# 🤖 AI / Machine Learning Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Machine Learning | ⭐⭐⭐☆☆ | Supervised & Unsupervised Learning Fundamentals |
+| Artificial Intelligence | ⭐⭐⭐☆☆ | AI-powered application development and integration |
+| Prompt Engineering | ⭐⭐⭐⭐☆ | Designing prompts for modern LLMs and AI assistants |
+| Generative AI | ⭐⭐⭐⭐☆ | Exploring LLMs, Retrieval-Augmented Generation (RAG), AI APIs |
+| Data Processing | ⭐⭐⭐☆☆ | Data cleaning, preprocessing, feature engineering |
+| AI APIs | ⭐⭐⭐⭐☆ | OpenAI APIs, Gemini APIs, AI integrations |
+
+---
+
+# 🛠 Engineering Toolkit
+
+| Category | Technologies |
+|-----------|--------------|
+| Languages | JavaScript, TypeScript, Java, Python |
+| Frontend | React.js, Next.js, Bootstrap, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Databases | MongoDB, MySQL, PostgreSQL |
+| Version Control | Git, GitHub |
+| Cloud | AWS (Learning), Vercel, Netlify |
+| API Testing | Postman |
+| IDE | VS Code |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React Patterns
+- Node.js Performance Optimization
+- AWS Cloud Services
+- Docker & Containerization
+- Microservices Architecture
+- Machine Learning Fundamentals
+- System Design
+- Data Structures & Algorithms
+
+---
+
+# 📈 Core Competencies
+
+<div align="center">
+
+| Full Stack Development | Software Engineering | Problem Solving |
+|:----------------------:|:--------------------:|:---------------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ |
+
+| REST APIs | Database Design | Clean Code |
+|:----------:|:---------------:|:----------:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ |
+
+| AI Integration | Cloud Fundamentals | Git & GitHub |
+|:--------------:|:-----------------:|:------------:|
+| ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+✔ Full Stack MERN Applications
+
+✔ Authentication Systems
+
+✔ RESTful APIs
+
+✔ AI-Powered Applications
+
+✔ Responsive UI/UX
+
+✔ CRUD Dashboards
+
+✔ Portfolio Websites
+
+✔ Real-Time Applications
+
+✔ Secure Backend Services
+
+✔ Database-Driven Applications
+
+---
+
+# 📖 Development Philosophy
+
+> **"Write clean code. Build scalable systems. Never stop learning."**
+
+I believe great software is created by combining strong engineering principles, continuous learning, and a user-first mindset. My goal is to build products that are fast, secure, scalable, and impactful.
+
+---

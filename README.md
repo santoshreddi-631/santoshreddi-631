@@ -102,32 +102,6 @@ Currently, I'm expanding my knowledge in **Artificial Intelligence**, **Machine 
 
 ---
 
-# 🤖 AI / Machine Learning Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Artificial Intelligence | ⭐☆☆☆☆ | AI-powered application development and integration |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Designing prompts for modern LLMs and AI assistants |
-| Generative AI | ⭐☆☆☆☆ | Exploring LLMs, Retrieval-Augmented Generation (RAG), AI APIs |
-| Data Processing | ⭐⭐⭐☆☆ | Data cleaning, preprocessing, feature engineering |
-| AI APIs | ⭐⭐⭐⭐☆ | OpenAI APIs, Gemini APIs, AI integrations |
-
----
-
-# 🛠 Engineering Toolkit
-
-| Category | Technologies |
-|-----------|--------------|
-| Languages | JavaScript, TypeScript, Java, Python |
-| Frontend | React.js, Next.js, Bootstrap, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, MySQL, PostgreSQL |
-| Version Control | Git, GitHub |
-| Cloud | AWS (Learning), Vercel, Netlify |
-| API Testing | Postman |
-| IDE | VS Code |
-
----
 
 # 📚 Currently Learning
 
@@ -423,9 +397,9 @@ An github web application integrating github api to fetch the user details throu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>](https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=tokyonight&hide_border=true"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -435,7 +409,7 @@ An github web application integrating github api to fetch the user details throu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true"/>
+[<img src="https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -445,7 +419,7 @@ An github web application integrating github api to fetch the user details throu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=tokyonight&no-frame=true&row=2&column=4"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=tokyonight&no-frame=true&row=2&column=4"/>](https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=onedark&no-frame=true&row=2&column=4)
 
 </div>
 

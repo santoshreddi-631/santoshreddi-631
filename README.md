@@ -395,13 +395,10 @@ An github web application integrating github api to fetch the user details throu
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>](https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=tokyonight&hide_border=true"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -417,11 +414,9 @@ An github web application integrating github api to fetch the user details throu
 
 # 🏆 GitHub Profile Trophy
 
-<div align="center">
-
-[<img src="https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=tokyonight&no-frame=true&row=2&column=4"/>](https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=onedark&no-frame=true&row=2&column=4)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 

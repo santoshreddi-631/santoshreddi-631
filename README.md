@@ -468,14 +468,10 @@ Open Source            ███████████
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after creating the GitHub Action.**
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/santoshreddi-631/santoshreddi-631/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/santoshreddi-631/santoshreddi-631/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---

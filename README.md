@@ -51,19 +51,6 @@ Currently, I'm expanding my knowledge in **Artificial Intelligence**, **Machine 
 
 ---
 
-## Quick Highlights
-
-| | |
-|---|---|
-| 💼 Role | Software Engineering Intern |
-| 🌱 Learning | AI • Machine Learning • AWS • System Design |
-| 💻 Specialization | Full Stack MERN Development |
-| 🎯 Goal | Become a Product Software Engineer |
-| 🚀 Interested In | Open Source • Cloud • AI Engineering |
-| 📍 Location | India |
-
----
-
 # 💻 Tech Stack
 
 <div align="center">
@@ -100,41 +87,6 @@ Currently, I'm expanding my knowledge in **Artificial Intelligence**, **Machine 
 
 </div>
 
----
-
-
-# 📚 Currently Learning
-
-- Advanced React Patterns
-- Node.js Performance Optimization
-- AWS Cloud Services
-- Docker & Containerization
-- Microservices Architecture
-- Machine Learning Fundamentals
-- System Design
-- Data Structures & Algorithms
-
----
-
-# 📈 Core Competencies
-
-<div align="center">
-
-| Full Stack Development | Software Engineering | Problem Solving |
-|:----------------------:|:--------------------:|:---------------:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ |
-
-| REST APIs | Database Design | Clean Code |
-|:----------:|:---------------:|:----------:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐⭐ |
-
-| AI Integration | Cloud Fundamentals | Git & GitHub |
-|:--------------:|:-----------------:|:------------:|
-| ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
 
 # 🚀 What I Build
 
@@ -240,50 +192,6 @@ An github web application integrating github api to fetch the user details throu
 
 </details>
 
----
-
-# 🏆 Engineering Highlights
-
-<div align="center">
-
-| Expertise | Experience |
-|------------|------------|
-| 🌐 Full Stack Development | ⭐⭐⭐☆☆ |
-| ⚛ React.js | ⭐⭐⭐☆☆ |
-| 🟢 Node.js | ⭐⭐⭐⭐☆ |
-| 🍃 MongoDB | ⭐⭐⭐⭐☆ |
-| 🔐 Authentication Systems | ⭐⭐⭐⭐☆ |
-| 🔄 REST API Development | ⭐⭐⭐⭐☆ |
-| 🤖 AI Integration | ⭐⭐⭐⭐☆ |
-| ☁ Cloud Fundamentals | ⭐⭐⭐☆☆ |
-
-</div>
-
----
-
-# 📈 Development Principles
-
-✔ Clean Architecture
-
-✔ Reusable Components
-
-✔ Responsive Design
-
-✔ Scalable Backend
-
-✔ Secure Authentication
-
-✔ Performance Optimization
-
-✔ REST API Best Practices
-
-✔ Git Workflow
-
-✔ Agile Development
-
-✔ Continuous Learning
-
----
 
 # 💼 Professional Experience
 
@@ -322,7 +230,7 @@ An github web application integrating github api to fetch the user details throu
 
 </div>
 
----
+
 
 # 📜 Certifications
 
@@ -379,46 +287,10 @@ An github web application integrating github api to fetch the user details throu
 
 </div>
 
----
-
-# 🎯 Career Goals
-
-- Become a Product Software Engineer
-- Contribute to impactful Open Source projects
-- Master System Design and Distributed Systems
-- Build AI-powered full-stack products
-- Earn AWS Cloud certifications
-- Strengthen competitive programming skills
-- Contribute to enterprise-scale software solutions
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santoshreddi-631&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshreddi-631&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-[<img src="https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true)
+?user=santoshreddi-631&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=santoshreddi-631&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
-# 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santoshreddi-631&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -447,26 +319,6 @@ An github web application integrating github api to fetch the user details throu
 
 </div>
 
----
-
-# 📅 Development Activity
-
-```text
-🌱 Learning Every Day
-
-███████████████████████░░ 90%
-
-React.js               ████████████████████
-Node.js                ██████████████████
-MongoDB                █████████████████
-JavaScript             ███████████████████
-System Design          ██████████
-Machine Learning       █████████
-AWS                    ████████
-Open Source            ███████████
-```
-
----
 
 ## 🐍 Contribution Snake
 
@@ -474,19 +326,6 @@ Open Source            ███████████
   <img src="https://raw.githubusercontent.com/santoshreddi-631/santoshreddi-631/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
-# 📈 Weekly Development Breakdown
-
-```text
-JavaScript      ████████████████████   45%
-React.js        ██████████████         25%
-Node.js         █████████              15%
-MongoDB         ██████                 8%
-Learning        ████                   7%
-```
-
----
 
 # 🌟 Developer Mindset
 

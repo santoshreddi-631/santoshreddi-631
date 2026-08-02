@@ -22,6 +22,11 @@
 </div>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/santoshreddi-631/santoshreddi-631/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # About Me
 
@@ -319,12 +324,6 @@ An github web application integrating github api to fetch the user details throu
 
 </div>
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/santoshreddi-631/santoshreddi-631/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 
 # 🌟 Developer Mindset
